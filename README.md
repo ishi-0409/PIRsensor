@@ -19,7 +19,18 @@ fritingを利用して作成したブレッドボード図です
 接続箇所が４か所ありますが便宜上左からvcc,out,gndとします  
 詳しくは参考資料元の動画を参照していただけると幸いです  
 
-![PIRセンサー回路図](https://raw.githubusercontent.com/ishi-0409/PIRsensor/main/PIR.png)
+![PIRセンサー回路図](https://raw.githubusercontent.com/ishi-0409/PIRsensor/main/PIR.png)  
+
+---
+
+### 参考資料
+
+この装置は下記の動画を参考にして作成しました
+
+[![Raspberry Pi LESSON 24](https://img.youtube.com/vi/lLc4KM8LZnY/0.jpg)](https://www.youtube.com/watch?v=lLc4KM8LZnY&t=532s)
+
+ 
+
 
 
 
