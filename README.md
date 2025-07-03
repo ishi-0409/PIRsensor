@@ -29,6 +29,12 @@ fritingを利用して作成したブレッドボード図です
 
 [![Raspberry Pi LESSON 24](https://img.youtube.com/vi/lLc4KM8LZnY/0.jpg)](https://www.youtube.com/watch?v=lLc4KM8LZnY&t=532s)
 
+
+## ライセンス
+このプロジェクトの一部コードは SunFounder Da Vinci Kit に基づき、
+GNU GPL v2 (またはそれ以降) の条件で公開されています。
+詳細は LICENSE ファイルを参照してください。
+
  
 
 
